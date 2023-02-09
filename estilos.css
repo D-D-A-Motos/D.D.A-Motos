@@ -31,11 +31,12 @@ footer{
     color: aliceblue;
 }
 .denis{
-    float: left;
+    margin: 0px auto;
+  
 }
 .david{
-    float: center;
+    margin: 0px auto;
 }
 .antonio{
-    float: right;
+    margin:0px auto;
 }
