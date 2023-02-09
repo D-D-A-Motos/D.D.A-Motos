@@ -6,4 +6,6 @@
 header{
     background-color: mediumblue;
     text-align: center;
+    font-style: oblique;
+    font-weight: bolder;
 }
