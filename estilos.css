@@ -31,11 +31,11 @@ footer{
     color: aliceblue;
 }
 .denis{
-    text-align: left;
+    float: left;
 }
 .david{
-    text-align: center;
+    float: center;
 }
 .antonio{
-    text-align: right;
+    float: right;
 }
