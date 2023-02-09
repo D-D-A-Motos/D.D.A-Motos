@@ -10,3 +10,11 @@ header{
     font-style: oblique;
     font-weight: bolder;
 }
+.descripcion{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
