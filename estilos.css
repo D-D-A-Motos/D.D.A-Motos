@@ -25,3 +25,16 @@ img{
     margin-right: auto;
     display: block;
 }
+footer{
+    background-color: black;
+    color: aliceblue;
+}
+.denis{
+    text-align: left;
+}
+.david{
+    text-align: center;
+}
+.antonio{
+    text-align: right;
+}
